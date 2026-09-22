@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+transformers
+torch
+ultralytics
+pillow
+numpy
+scipy
+soundfile
+httpx
+
+[dev]
+pytest
+pytest-asyncio

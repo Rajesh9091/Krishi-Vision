@@ -1,0 +1,3 @@
+{
+  "frame": "உங்கள் {crop_local} தாவரத்தில் {disease_local} கண்டறியப்பட்டுள்ளது. இதற்குக் காரணம் {cause_local}. ஒரு லிட்டர் தண்ணீருக்கு {organic_dose} {organic_name} கலந்து ஒவ்வொரு {organic_interval} நாட்களுக்கும் ஒருமுறை தெளிக்கவும். அல்லது {chemical_name} ஒரு லிட்டருக்கு {chemical_dose} கலந்து ஒவ்வொரு {chemical_interval} நாட்களுக்கும் ஒருமுறை பயன்படுத்தவும். {safety_local} {prevention_local}"
+}

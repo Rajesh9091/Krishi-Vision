@@ -1,0 +1,56 @@
+[
+  {
+    "id": "bengaluru_rural",
+    "name": "Bengaluru Rural",
+    "state": "Karnataka",
+    "bbox": {"min_lat": 12.7, "max_lat": 13.3, "min_lon": 77.3, "max_lon": 77.9},
+    "soil": "Red sandy loam",
+    "climate": "Semi-arid southern dry zone",
+    "season_note": "Kharif sowing June-July; current period favours fungal leaf blights due to humidity"
+  },
+  {
+    "id": "mandya",
+    "name": "Mandya",
+    "state": "Karnataka",
+    "bbox": {"min_lat": 12.3, "max_lat": 12.7, "min_lon": 76.6, "max_lon": 77.1},
+    "soil": "Black cotton soil with irrigated red loam patches",
+    "climate": "Southern dry zone, Cauvery-irrigated",
+    "season_note": "Post-monsoon; high humidity around irrigated fields raises blight risk"
+  },
+  {
+    "id": "belagavi",
+    "name": "Belagavi",
+    "state": "Karnataka",
+    "bbox": {"min_lat": 15.6, "max_lat": 16.2, "min_lon": 74.3, "max_lon": 75.0},
+    "soil": "Deep black soil (regur)",
+    "climate": "Northern transition zone, higher rainfall",
+    "season_note": "Kharif season; wet conditions favour late blight and bacterial spot"
+  },
+  {
+    "id": "hyderabad_rangareddy",
+    "name": "Hyderabad / Rangareddy",
+    "state": "Telangana",
+    "bbox": {"min_lat": 17.1, "max_lat": 17.6, "min_lon": 78.1, "max_lon": 78.7},
+    "soil": "Red sandy loam and lateritic soil",
+    "climate": "Semi-arid southern telangana zone",
+    "season_note": "Rabi vegetable season; warm days, cool nights favour leaf curl vectors"
+  },
+  {
+    "id": "pune",
+    "name": "Pune",
+    "state": "Maharashtra",
+    "bbox": {"min_lat": 18.3, "max_lat": 18.8, "min_lon": 73.6, "max_lon": 74.1},
+    "soil": "Medium black soil",
+    "climate": "Western Maharashtra scarcity zone",
+    "season_note": "Post-monsoon vegetable belt; residual soil moisture keeps fungal spores active"
+  },
+  {
+    "id": "coimbatore",
+    "name": "Coimbatore",
+    "state": "Tamil Nadu",
+    "bbox": {"min_lat": 10.8, "max_lat": 11.3, "min_lon": 76.8, "max_lon": 77.3},
+    "soil": "Red loam with pockets of black soil",
+    "climate": "Western agro-climatic zone, rain-shadow",
+    "season_note": "Dry spell with occasional showers; watch for mosaic virus vector buildup"
+  }
+]

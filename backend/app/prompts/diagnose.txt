@@ -1,0 +1,15 @@
+Leaf scan result: crop {crop}, disease {disease}, confidence {confidence_pct} percent{uncertain_note}.
+Cause of this disease: {cause}.
+Farmer's location: {zone_name}, {state}. Soil: {soil}. Agro-climate: {climate}. Current season: {season}.
+Available treatments (use only these):
+{treatments_block}
+{scheme_block}
+
+Speak to the farmer. Cover, in this order:
+1. What the disease is, in one plain sentence.
+2. Why it is happening here now, linking to the soil, season or climate above, in one sentence.
+3. What to do today: one organic option and one chemical option with the dilution per litre of water
+   and how often to spray.
+4. One prevention tip.
+5. If a scheme is listed above, one sentence telling the farmer they may be eligible and where to ask
+   (village agriculture officer or Raitha Samparka Kendra).

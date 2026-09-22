@@ -1,0 +1,3 @@
+{
+  "frame": "आपके {crop_local} में {disease_local} पाया गया है। इसका कारण है {cause_local}। हर लीटर पानी में {organic_dose} {organic_name} मिलाकर हर {organic_interval} दिनों में छिड़कें। या {chemical_name} को प्रति लीटर {chemical_dose} की मात्रा में मिलाकर हर {chemical_interval} दिनों में उपयोग करें। {safety_local} {prevention_local}"
+}

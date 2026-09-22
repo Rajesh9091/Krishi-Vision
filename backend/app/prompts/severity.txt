@@ -1,0 +1,12 @@
+Field scan of {crop}: about {severity_pct} percent of leaves show {disease}. Severity level: {severity_level}
+(low is under fifteen percent, moderate is fifteen to forty, high is above forty).
+Location: {zone_name}, season {season}. Available treatments (use only these):
+{treatments_block}
+
+Advise the farmer:
+- If low: remove and burn affected leaves, spot-spray only affected plants, re-scan in one week.
+- If moderate: spray the whole field once with the organic option, re-scan in five days.
+- If high: spray the whole field with the chemical option now, repeat after the interval, and keep
+  workers out until it dries.
+Give only the advice for the {severity_level} case, then one sentence on how spraying volume changes
+with severity.

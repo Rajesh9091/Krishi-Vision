@@ -1,0 +1,13 @@
+{
+  "name": "Agri-Vision — Offline Crop Doctor",
+  "short_name": "Agri-Vision",
+  "description": "Offline crop-disease diagnosis, dosage, severity scan and voice follow-up for farmers.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0fdf4",
+  "theme_color": "#166534",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

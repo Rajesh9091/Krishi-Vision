@@ -1,0 +1,3 @@
+{
+  "frame": "{disease_local} has been found on your {crop_local}. It is caused by {cause_local}. Spray {organic_name} at {organic_dose} per litre of water every {organic_interval} days. Or use {chemical_name} at {chemical_dose} per litre, every {chemical_interval} days. {safety_local} {prevention_local}"
+}

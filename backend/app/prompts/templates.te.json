@@ -1,0 +1,3 @@
+{
+  "frame": "మీ {crop_local} మొక్కలో {disease_local} కనిపించింది. దీనికి కారణం {cause_local}. ప్రతి లీటరు నీటికి {organic_dose} {organic_name} కలిపి ప్రతి {organic_interval} రోజులకు ఒకసారి పిచికారీ చేయండి. లేదా {chemical_name}ను ప్రతి లీటరుకు {chemical_dose} కలిపి ప్రతి {chemical_interval} రోజులకు ఒకసారి వాడండి. {safety_local} {prevention_local}"
+}

@@ -1,0 +1,3 @@
+{
+  "frame": "ನಿಮ್ಮ {crop_local} ಸಸ್ಯದಲ್ಲಿ {disease_local} ಕಂಡುಬಂದಿದೆ. ಇದಕ್ಕೆ ಕಾರಣ {cause_local}. ಪ್ರತಿ ಲೀಟರ್ ನೀರಿಗೆ {organic_dose} {organic_name} ಬೆರೆಸಿ ಪ್ರತಿ {organic_interval} ದಿನಗಳಿಗೊಮ್ಮೆ ಸಿಂಪಡಿಸಿ. ಅಥವಾ {chemical_name} ಅನ್ನು ಪ್ರತಿ ಲೀಟರ್‌ಗೆ {chemical_dose} ಬೆರೆಸಿ ಪ್ರತಿ {chemical_interval} ದಿನಗಳಿಗೊಮ್ಮೆ ಬಳಸಿ. {safety_local} {prevention_local}"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "key": "tomato_early_blight",
+    "raw_label": "Tomato___Early_blight",
+    "crop": "Tomato",
+    "disease": "Early blight",
+    "cause": "Fungus Alternaria solani, spreads in warm humid weather via splashing water and infected debris",
+    "treatments": [
+      {"name": "Neem oil", "type": "organic", "dose_per_litre": "5 ml", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Spray in the evening, avoid contact with eyes"},
+      {"name": "Mancozeb", "type": "chemical", "dose_per_litre": "2 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear gloves and mask, keep children away for one day"}
+    ],
+    "prevention": "Remove lower infected leaves and avoid overhead watering"
+  },
+  {
+    "key": "tomato_late_blight",
+    "raw_label": "Tomato___Late_blight",
+    "crop": "Tomato",
+    "disease": "Late blight",
+    "cause": "Water mould Phytophthora infestans, spreads fast in cool wet weather",
+    "treatments": [
+      {"name": "Copper oxychloride", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Do not mix with other chemicals, wash hands after use"},
+      {"name": "Metalaxyl + Mancozeb", "type": "chemical", "dose_per_litre": "2.5 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear a mask, do not spray before rain"}
+    ],
+    "prevention": "Improve field drainage and spacing for airflow"
+  },
+  {
+    "key": "tomato_leaf_mold",
+    "raw_label": "Tomato___Leaf_Mold",
+    "crop": "Tomato",
+    "disease": "Leaf mold",
+    "cause": "Fungus Passalora fulva, thrives in high humidity with poor ventilation",
+    "treatments": [
+      {"name": "Neem oil", "type": "organic", "dose_per_litre": "5 ml", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Spray in the evening"},
+      {"name": "Chlorothalonil", "type": "chemical", "dose_per_litre": "2 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear gloves, avoid inhaling spray mist"}
+    ],
+    "prevention": "Increase plant spacing and prune lower leaves for airflow"
+  },
+  {
+    "key": "tomato_septoria_leaf_spot",
+    "raw_label": "Tomato___Septoria_leaf_spot",
+    "crop": "Tomato",
+    "disease": "Septoria leaf spot",
+    "cause": "Fungus Septoria lycopersici, spreads through rain splash and wet foliage",
+    "treatments": [
+      {"name": "Copper oxychloride", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Do not mix with other sprays"},
+      {"name": "Mancozeb", "type": "chemical", "dose_per_litre": "2 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear gloves and mask"}
+    ],
+    "prevention": "Mulch soil to reduce splash and remove infected debris"
+  },
+  {
+    "key": "tomato_bacterial_spot",
+    "raw_label": "Tomato___Bacterial_spot",
+    "crop": "Tomato",
+    "disease": "Bacterial spot",
+    "cause": "Bacterium Xanthomonas, spreads through rain splash, tools and infected seed",
+    "treatments": [
+      {"name": "Copper hydroxide", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Avoid spraying during flowering"},
+      {"name": "Streptomycin sulfate", "type": "chemical", "dose_per_litre": "0.5 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 2, "safety": "Follow label strictly, restricted-use antibiotic"}
+    ],
+    "prevention": "Use disease-free seed and disinfect tools between plants"
+  },
+  {
+    "key": "tomato_mosaic_virus",
+    "raw_label": "Tomato___Tomato_mosaic_virus",
+    "crop": "Tomato",
+    "disease": "Mosaic virus",
+    "cause": "Tobamovirus spread by contact, tools and infected sap; no chemical cure",
+    "treatments": [
+      {"name": "Neem oil (for insect vectors)", "type": "organic", "dose_per_litre": "5 ml", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Wash hands after handling infected plants"},
+      {"name": "Imidacloprid (vector control)", "type": "chemical", "dose_per_litre": "0.5 ml", "water_litres_per_acre": 200, "interval_days": 14, "max_applications": 2, "safety": "Toxic to bees, spray in the evening"}
+    ],
+    "prevention": "Remove and destroy infected plants immediately, disinfect tools"
+  },
+  {
+    "key": "tomato_yellow_leaf_curl_virus",
+    "raw_label": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+    "crop": "Tomato",
+    "disease": "Yellow leaf curl virus",
+    "cause": "Begomovirus spread by whitefly; no direct chemical cure",
+    "treatments": [
+      {"name": "Neem oil (for whitefly)", "type": "organic", "dose_per_litre": "5 ml", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Spray under leaves where whiteflies rest"},
+      {"name": "Imidacloprid", "type": "chemical", "dose_per_litre": "0.5 ml", "water_litres_per_acre": 200, "interval_days": 14, "max_applications": 2, "safety": "Toxic to bees, avoid spraying near flowering"}
+    ],
+    "prevention": "Use yellow sticky traps and remove infected plants"
+  },
+  {
+    "key": "potato_early_blight",
+    "raw_label": "Potato___Early_blight",
+    "crop": "Potato",
+    "disease": "Early blight",
+    "cause": "Fungus Alternaria solani, favoured by warm humid conditions",
+    "treatments": [
+      {"name": "Neem oil", "type": "organic", "dose_per_litre": "5 ml", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Spray in the evening"},
+      {"name": "Mancozeb", "type": "chemical", "dose_per_litre": "2 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear gloves and mask"}
+    ],
+    "prevention": "Rotate crops and avoid overhead irrigation"
+  },
+  {
+    "key": "potato_late_blight",
+    "raw_label": "Potato___Late_blight",
+    "crop": "Potato",
+    "disease": "Late blight",
+    "cause": "Water mould Phytophthora infestans, spreads fast in cool wet weather",
+    "treatments": [
+      {"name": "Copper oxychloride", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Do not mix with other chemicals"},
+      {"name": "Metalaxyl + Mancozeb", "type": "chemical", "dose_per_litre": "2.5 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear a mask, do not spray before rain"}
+    ],
+    "prevention": "Destroy infected plant debris and use certified seed potatoes"
+  },
+  {
+    "key": "pepper_bacterial_spot",
+    "raw_label": "Pepper,_bell___Bacterial_spot",
+    "crop": "Pepper",
+    "disease": "Bacterial spot",
+    "cause": "Bacterium Xanthomonas, spreads through rain splash and contaminated tools",
+    "treatments": [
+      {"name": "Copper hydroxide", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Avoid spraying during flowering"},
+      {"name": "Streptomycin sulfate", "type": "chemical", "dose_per_litre": "0.5 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 2, "safety": "Follow label strictly"}
+    ],
+    "prevention": "Use disease-free seed and rotate crops"
+  },
+  {
+    "key": "corn_leaf_blight",
+    "raw_label": "Corn___Northern_Leaf_Blight",
+    "crop": "Corn",
+    "disease": "Northern leaf blight",
+    "cause": "Fungus Exserohilum turcicum, spreads in warm humid conditions",
+    "treatments": [
+      {"name": "Trichoderma-based biofungicide", "type": "organic", "dose_per_litre": "5 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Store in a cool dry place"},
+      {"name": "Propiconazole", "type": "chemical", "dose_per_litre": "1 ml", "water_litres_per_acre": 200, "interval_days": 14, "max_applications": 2, "safety": "Wear gloves and mask"}
+    ],
+    "prevention": "Rotate with non-host crops and till infected residue under"
+  },
+  {
+    "key": "corn_common_rust",
+    "raw_label": "Corn___Common_rust",
+    "crop": "Corn",
+    "disease": "Common rust",
+    "cause": "Fungus Puccinia sorghi, spreads by windborne spores in humid weather",
+    "treatments": [
+      {"name": "Sulfur dust", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Avoid application in direct hot sun"},
+      {"name": "Propiconazole", "type": "chemical", "dose_per_litre": "1 ml", "water_litres_per_acre": 200, "interval_days": 14, "max_applications": 2, "safety": "Wear gloves and mask"}
+    ],
+    "prevention": "Choose rust-tolerant varieties for the next season"
+  },
+  {
+    "key": "grape_black_rot",
+    "raw_label": "Grape___Black_rot",
+    "crop": "Grape",
+    "disease": "Black rot",
+    "cause": "Fungus Guignardia bidwellii, spreads in warm wet weather from overwintered debris",
+    "treatments": [
+      {"name": "Copper oxychloride", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 7, "max_applications": 4, "safety": "Do not mix with other sprays"},
+      {"name": "Mancozeb", "type": "chemical", "dose_per_litre": "2 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear gloves and mask"}
+    ],
+    "prevention": "Prune for airflow and remove mummified berries"
+  },
+  {
+    "key": "apple_scab",
+    "raw_label": "Apple___Apple_scab",
+    "crop": "Apple",
+    "disease": "Apple scab",
+    "cause": "Fungus Venturia inaequalis, spreads via wind and rain in cool wet spring weather",
+    "treatments": [
+      {"name": "Sulfur spray", "type": "organic", "dose_per_litre": "3 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 4, "safety": "Avoid application in direct hot sun"},
+      {"name": "Mancozeb", "type": "chemical", "dose_per_litre": "2 g", "water_litres_per_acre": 200, "interval_days": 10, "max_applications": 3, "safety": "Wear gloves and mask"}
+    ],
+    "prevention": "Rake and destroy fallen leaves each autumn"
+  }
+]

@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.venv/
+backend/app/static/audio/*
+!backend/app/static/audio/.gitkeep
+node_modules/
+frontend/dist/
+frontend/.vite/
+*.log
+.env
+.DS_Store
+Thumbs.db
+
+# Docs kept local only (top-level README.md stays tracked)
+*.md
+!/README.md
+
+# Scratch / local-only
+.scratch/
+*.pt
+

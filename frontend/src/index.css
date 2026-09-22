@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Sunlight-readable base: larger default text, high contrast, big tap targets
+   (CLAUDE.md §9 -- judges use phones outdoors). */
+html {
+  font-size: 17px;
+}
+
+body {
+  @apply bg-white text-gray-900;
+}
+
+button {
+  min-height: 44px;
+}

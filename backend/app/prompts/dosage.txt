@@ -1,0 +1,11 @@
+The farmer has {area_value} {area_unit} of {crop} with {disease}. They chose {treatment_name} ({treatment_type}).
+Numbers already calculated (do not change them):
+- Total water needed: {water_litres} litres
+- Total {treatment_name} needed: {product_amount} {product_unit}
+- Per fifteen-litre knapsack tank: {per_tank_amount} {product_unit} of {treatment_name}
+- Number of tank fills: {tank_fills}
+- Spray every {interval_days} days, at most {max_applications} times
+- Safety: {safety}
+
+Tell the farmer exactly these amounts in plain speech, then the tank-by-tank instruction, then the
+interval, then the safety line. Write the numbers as words.

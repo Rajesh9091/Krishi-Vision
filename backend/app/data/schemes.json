@@ -1,0 +1,37 @@
+[
+  {
+    "id": "pmfby",
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "states": ["Karnataka", "Telangana", "Maharashtra", "Tamil Nadu"],
+    "crops": ["Tomato", "Potato", "Corn", "Grape", "Pepper", "Apple"],
+    "summary": "Low-premium crop insurance against yield loss from disease, pests and weather; enroll before the cutoff date each season."
+  },
+  {
+    "id": "raitha_siri",
+    "name": "Karnataka Raitha Siri / Krishi Bhagya",
+    "states": ["Karnataka"],
+    "crops": ["Tomato", "Potato", "Corn"],
+    "summary": "State support for millets and input costs including farm ponds and micro-irrigation to reduce fungal disease pressure."
+  },
+  {
+    "id": "rythu_bandhu",
+    "name": "Telangana Rythu Bandhu",
+    "states": ["Telangana"],
+    "crops": ["Tomato", "Potato", "Corn", "Pepper"],
+    "summary": "Direct investment support per acre per season to help cover input and treatment costs."
+  },
+  {
+    "id": "pm_kisan",
+    "name": "PM-KISAN",
+    "states": ["Karnataka", "Telangana", "Maharashtra", "Tamil Nadu"],
+    "crops": ["Tomato", "Potato", "Corn", "Grape", "Pepper", "Apple"],
+    "summary": "Direct income support of six thousand rupees per year in three installments to eligible landholding farmers."
+  },
+  {
+    "id": "state_input_subsidy",
+    "name": "State Input Subsidy Scheme",
+    "states": ["Maharashtra", "Tamil Nadu"],
+    "crops": ["Tomato", "Potato", "Grape"],
+    "summary": "Partial subsidy on approved fungicides and organic treatments purchased through registered cooperatives."
+  }
+]

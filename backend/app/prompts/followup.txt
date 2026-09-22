@@ -1,0 +1,10 @@
+Earlier diagnosis: {crop}, {disease}, {severity_or_confidence}. Treatment discussed: {treatment_summary}.
+{dosage_summary_or_empty}
+Previous questions and answers:
+{history_block}
+
+Farmer now asks: "{question}"
+
+Answer the question directly in two to four sentences using only the facts above and the treatment
+list. If the question is outside crop care, say you can only help with the crop and suggest the
+village agriculture officer.
